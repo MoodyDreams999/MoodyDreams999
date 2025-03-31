@@ -1,6 +1,7 @@
 ## Hi there 👋
-
+## Private repo stats included
 ![Top Langs](https://github-readme-stats-git-master-samuel-hensons-projects.vercel.app/api/top-langs/?username=MoodyDreams999&langs_count=8)
+## Only Public
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoodyDreams999&langs_count=8)
 <!--
 **MoodyDreams999/MoodyDreams999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
