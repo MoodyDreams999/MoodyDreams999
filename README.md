@@ -1,4 +1,4 @@
-## Hi there 👋 I am not worried about aesthetic right now, I mainly just use this as a way to store project between different environments that I work on.
+## Hi there 👋 I am not worried about aesthetic right now, I mainly just use this as a way to store projects between different environments that I work on.
 
 ## Private repo stats included
 ![Top Langs](https://github-readme-stats-git-master-samuel-hensons-projects.vercel.app/api/top-langs/?username=MoodyDreams999&langs_count=8)
